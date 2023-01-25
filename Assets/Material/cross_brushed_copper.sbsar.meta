@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b2406639f83fd349936e612f935fd79
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 32533742f6ca08143b29142b2890b10d, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Material/cross_brushed_copper.sbsar

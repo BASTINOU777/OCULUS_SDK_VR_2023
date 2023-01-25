@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e7e19385345e1d47bf19cd942fe2f02
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: f07a865b067914d44bf22d342195e36c, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/Gold/stylized_gold_coins.sbsar
